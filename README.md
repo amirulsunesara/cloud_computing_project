@@ -12,32 +12,6 @@
 
 <p>Technologies used: Sails.js, JQuery and MySQL.</p>
 
-## URL's For All Hosted Web Services and Front-end Projects (Cloud Deployed URLs)
-
-1. Insurance Webservice: [click here](https://insuranceservice.herokuapp.com/)
-2. Real Estate Webservice: [click here](https://realestatewebservice.herokuapp.com/)
-3. Broker’s Webservice: [click here](https://brokerwebservice.herokuapp.com/)
-4. Employer’s Webservice: [click here](https://employerservice.herokuapp.com/)
-5. Broker’s UI: [click here](https://brokerui.herokuapp.com/)
-6. Employer’s UI: [click here](https://employerui.herokuapp.com/)
-7. Real Estate UI: [click here](https://realestateui.herokuapp.com/)
-
-## References
-
-<p>[1] T. Company, "Waterline (ORM)", Sailsjs.com, 2019. [Online]. Available: https://sailsjs.com/documentation/reference/waterline-orm. </p>
-<p>[2] "How to validate URL address in JavaScript", Tutorialspoint.com, 2019. [Online]. Available: https://www.tutorialspoint.com/How-to-validate-URL-address-in-JavaScript. </p>
-<p>[3] T. Company, "Logging", Sailsjs.com, 2019. [Online]. Available: https://sailsjs.com/documentation/concepts/logging. </p>
-<p>[4] T. Company, "sails.config.log", Sailsjs.com, 2019. [Online]. Available: https://sailsjs.com/documentation/reference/configuration/sails-config-log. </p>
-<p>[5] T. Company, "sails.config.log", Sailsjs.com, 2019. [Online]. Available: https://sailsjs.com/documentation/reference/configuration/sails-config-log</p>
-<p>[6] "Beautiful Winston: A Simple and Universal Logger - Chingu - Medium", Medium, 2019. [Online]. Available: https://medium.com/chingu/beautiful-winston-a-simple-and-universal-logger-6a2d38c01a69. </p>
-<p>[7] "winston", npm, 2019. [Online]. Available: https://www.npmjs.com/package/winston. </p>
-<p>[8] T. Company, "Response (`res`)", Sailsjs.com, 2019. [Online]. Available: https://sailsjs.com/documentation/reference/response-res. </p>
-<p>[9] Mark Otto, "Navbar", Getbootstrap.com, 2019. [Online]. Available: https://getbootstrap.com/docs/4.0/components/navbar/.</p>
-<p>[10] Mark Otto, "Buttons", Getbootstrap.com, 2019. [Online]. Available: https://getbootstrap.com/docs/4.0/components/buttons/.</p>
-<p>[11] Mark Otto, "Buttons", Getbootstrap.com, 2019. [Online]. Available: https://getbootstrap.com/docs/4.0/components/buttons/. </p>
-<p>[12] Mark Otto, "Forms", Getbootstrap.com, 2019. [Online]. Available: https://getbootstrap.com/docs/4.0/components/forms/.</p>
-<p>[13] Mark Otto, "Forms", Getbootstrap.com, 2019. [Online]. Available: https://getbootstrap.com/docs/4.0/components/forms/.</p>
-
 ## Authors
 
 - Dhruv Purohit, _B00821734_
